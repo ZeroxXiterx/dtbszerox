@@ -1,7 +1,22 @@
 {
   "users": [
     {
-      "password": "zerox1.3"
+      "whatsappNumber": "0858112486496",
+      "password": "zerox"
+    },
+    {
+      "whatsappNumber": "085768351837",
+      "password": "123"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "0858112486496",
+      "token": "zerox112"
+    },
+    {
+      "whatsappNumber": "085768351837",
+      "token": "anas123"
     }
   ]
 }
