@@ -7,6 +7,10 @@
     {
       "whatsappNumber": "085768351837",
       "password": "123"
+    },
+    {
+      "whatsappNumber": "085363394500",
+      "password": "kepin"
     }
   ],
   "approvedUsers": [
@@ -17,6 +21,10 @@
     {
       "whatsappNumber": "085768351837",
       "token": "anas123"
+    },
+    {
+      "whatsappNumber": "085363394500",
+      "token": "kepinjelek"
     }
   ]
 }
