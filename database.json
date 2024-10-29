@@ -1,46 +1,11 @@
 {
-  "users": [
-    {
-      "whatsappNumber": "0858112486496",
-      "password": "zerox"
-    },
-    {
-      "whatsappNumber": "923310233388",
-      "password": "new"
-    },
-    {
-      "whatsappNumber": "083832277809",
-      "password": "zerox"
-    },
-    {
-      "whatsappNumber": "081232992106",
-      "password": "exel"
-    },
-    {
-      "whatsappNumber": "085363394500",
-      "password": "kepin"
-    }
-  ],
-  "approvedUsers": [
-    {
-      "whatsappNumber": "0858112486496",
-      "token": "zerox112"
-    },
-    {
-      "whatsappNumber": "083832277809",
-      "password": "zeruk"
-    },
-    {
-      "whatsappNumber": "923310233388",
-      "token": "new1.4"
-    },
-    {
-      "whatsappNumber": "081232992106",
-      "token": "exel121"
-    },
-    {
-      "whatsappNumber": "085363394500",
-      "token": "kepinjelek"
-    }
-  ]
+    "Creator": "https://wa.me/6289630157601",
+    "Access": [
+      "089630157601",
+      "0858112486496"
+    ],
+    "Access_Bot": [
+      "089630157601",
+      "0858112486496"
+    ]
 }
